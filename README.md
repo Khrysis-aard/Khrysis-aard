@@ -12,4 +12,4 @@ I enjoy creating **Aardwolf MUSHclient plugins** and Lua scripts to make MUD gam
 ![MUSHclient](https://img.shields.io/badge/MUSHclient-Plugin-blue?style=for-the-badge)
 
 ---
-*Looking for a specific Aardwolf script? Check out my repositories or feel free to reach out!*
+*Looking for a handy Aardwolf script? Check out my plugins!*
